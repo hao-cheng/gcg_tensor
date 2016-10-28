@@ -24,7 +24,7 @@ in NIPS Workshop on Optimization for Machine Learning.
 To run the package, please first make sure the lbfgsb and PROPACK work properly.
 Then, please run the ./mex/make_mex.m to make all required mex.
 
-A example run code for low-rank tensor completion is shown in ./Synthetic_exp.m.
+An example run code for low-rank tensor completion is shown in ./Synthetic_exp.m.
 
 ## Question Contact
 - Hao Cheng 
